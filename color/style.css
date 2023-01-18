@@ -904,3 +904,10 @@ body, html {
 	margin: auto;
 	width: 40%;
   }
+
+
+  .copyright {
+	font-size: 25px;
+	text-align: center;
+	color: #2ecc71;
+ }
